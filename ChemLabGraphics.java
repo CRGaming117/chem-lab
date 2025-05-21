@@ -1,4 +1,4 @@
-package chem-lab;
+package chem_lab;
 
 import java.awt.*;
 import java.io.FileNotFoundException;
