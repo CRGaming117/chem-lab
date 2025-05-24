@@ -24,7 +24,6 @@ public class Element {
       allIsotopes.add(fS.nextBoolean());
     }
     fS.close();
-
   }
 
   public Element(int num) throws FileNotFoundException {
